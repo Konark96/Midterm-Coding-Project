@@ -3,7 +3,6 @@ package com.cisc181.core;
 import java.util.Date;
 
 import com.cisc181.eNums.eTitle;
-
 public class Staff extends Employee {
 
 	 private eTitle Title;
